@@ -1,0 +1,1 @@
+This repository demonstrates a common COBOL error: numeric overflow.  The `bug.cob` file contains code that attempts to add two numbers, resulting in a value exceeding the receiving field's capacity. The `bugSolution.cob` offers a solution using a larger receiving field to handle the potential overflow.
